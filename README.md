@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @coder-real
-- 👀 I’m interested in Web Development, Machine Learning, AR, Game Development and Robotics
-- 💞️ I’m looking to collaborate on Full stack web projects for now.
+Hi, I'm Anthony Nder. 👋 I am a software engineer focused on bridging the gap between hardware and software. I build end-to-end solutions, ranging from secure blockchain mobile applications to browser-based biometric authentication systems.
 
-<!---
-coder-real/coder-real is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Core Stack: TypeScript, Dart, C++ (IoT), and Web Technologies.
