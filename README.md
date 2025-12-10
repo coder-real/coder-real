@@ -1,3 +1,5 @@
-Hi, I'm Anthony. 👋 I am a software engineer focused on bridging the gap between hardware and software. I build end-to-end solutions, ranging from secure blockchain mobile applications to browser-based biometric authentication systems.
+Hi, I'm Anthony. 👋 I’m a developer who learns by building. I don't like staying in one lane—I enjoy experimenting with how software interacts with the physical world and secure systems.
 
-Core Stack: TypeScript, Dart, C++ (IoT), and Web Technologies.
+Right now, I'm working on combining hardware (IoT) with web apps, and exploring blockchain architecture.
+
+My Toolbox: TypeScript, Dart, & C++.
